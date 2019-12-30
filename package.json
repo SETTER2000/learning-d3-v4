@@ -55,6 +55,7 @@
     "d3": "^4.8.0",
     "d3-dsv": "^1.0.3",
     "d3-sankey": "^0.4.1",
+    "d3-selection": "^1.4.1",
     "d3-svg-legend": "^2.19.0",
     "earth-topojson": "^1.0.0",
     "koa": "^2.0.0-alpha.7",
