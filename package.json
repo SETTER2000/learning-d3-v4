@@ -1,5 +1,10 @@
 {
   "name": "learning-d3-v4",
+  "babel":{
+    "presets":[
+      "es2017"
+    ]
+  },
   "version": "1.0.0",
   "description": "",
   "main": "lib/main.js",
